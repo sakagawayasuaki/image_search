@@ -1,0 +1,7 @@
+streamlit
+openai
+azure-search-documents
+azure-storage-blob
+python-dotenv
+Pillow
+certifi
